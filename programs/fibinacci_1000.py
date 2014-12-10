@@ -1,3 +1,5 @@
+#problem number 25
+
 """2 terms extra taken for the declaration"""
 stack,n,su,k = [1,1],0,0,0
 while(n != 10000000):
